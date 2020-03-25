@@ -1,0 +1,24 @@
+{
+    "name": "browserslist-config-fk",
+    "version": "1.0.0",
+    "description": "Fictive Kin sharable browserslist configuration",
+    "license": "MIT",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/fictivekin/browserslist-config-fk.git"
+    },
+    "author": {
+      "name": "Fictive Kin",
+      "email": "hello@fictivekin.com",
+      "url": "https://fictivekin.com/"
+    },
+    "bugs": {
+      "url": "https://github.com/fictivekin/browserslist-config-fk/issues"
+    },
+    "homepage": "https://github.com/fictivekin/browserslist-config-fk#readme"
+  }
+  
