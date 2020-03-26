@@ -6,7 +6,7 @@ Fictive Kin sharable browserslist configuration
 Run the following in your project directory to install:
 
 ```
-yarn add browserslist-config-fk --dev
+yarn add @fictivekin/browserslist-config-fk --dev
 ```
 
 In your package.json file, add:
