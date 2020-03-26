@@ -13,6 +13,6 @@ In your package.json file, add:
 
 ```
 "browserslist": [
-    "extends browserslist-config-fk"
+    "extends @fictivekin/browserslist-config-fk"
 ]
 ```
